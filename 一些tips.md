@@ -24,3 +24,6 @@ export JAVA_HOME=$JAVA_11_HOME
 · 生效配置：source ~/.bash_profile
 · 查看java版本：java -version
 · 切换：jdk8/11
+
+2. 安装与配置iTerm2
+参考link： https://blog.csdn.net/wangzhongshun/article/details/122089389?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-0.pc_relevant_aa&spm=1001.2101.3001.4242.1&utm_relevant_index=3
